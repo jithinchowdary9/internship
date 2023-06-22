@@ -26,6 +26,6 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 
 ## Contact
 
-If you have any questions or want to get in touch with me, you can reach me via email at [your-email@example.com](mailto:your-email@example.com). I'm always open to feedback, suggestions, and collaboration opportunities.
+If you have any questions or want to get in touch with me, you can reach me via email at [jithinchowdary1818@gmail.com](jithinchowdary1818@gmail.com). I'm always open to feedback, suggestions, and collaboration opportunities.
 
 Happy coding!
